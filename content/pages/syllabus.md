@@ -47,14 +47,75 @@ For further detail, please see the [Assignments]({{< baseurl >}}/pages/assignmen
 Grading Policy
 --------------
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Task 1: Written report – Knowing the rules | 20 |
-| Task 2: Written report – Political histories | 20 |
-| Task 3: Written report – Media platforms and political attitudes | 20 |
-| Task 4: Campaign strategy report and presentation | 15 |
-| Task 5: Final report | 20 |
-| Participation in class | 5 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Task 1: Written report – Knowing the rules
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Task 2: Written report – Political histories
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Task 3: Written report – Media platforms and political attitudes
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Task 4: Campaign strategy report and presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Task 5: Final report
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in class
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student Responsibilities
 ------------------------
