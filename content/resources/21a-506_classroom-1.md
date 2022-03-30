@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: c74854e2-c1e6-4792-73e1-cba8d620dfb5
 resourcetype: Image
 title: 21A-506_classroom-1.jpg
 uid: 030d7514-9a24-d5e8-9d5a-c5093aaad8ed
